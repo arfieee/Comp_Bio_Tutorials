@@ -1,1 +1,1 @@
-# Comp_Bio_Tutorials
+# Lotka-Volterra equations
